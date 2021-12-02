@@ -139,8 +139,8 @@ input, select, textarea {
 
   .resume{
     position:absolute;
-    bottom: 21%;
-    left: -10px;
+    bottom: -22%;
+    left: -11px;
   }
 
   #quit, #self, #sim{
@@ -149,6 +149,14 @@ input, select, textarea {
 
   #two{
     background-color: #91b38e;
+  }
+
+  #info{
+    top: 120%;
+    position: absolute;
+    font-size: 20px;
+    letter-spacing: 0;
+    text-transform: none;
   }
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
