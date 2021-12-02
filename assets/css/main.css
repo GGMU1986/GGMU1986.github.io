@@ -117,6 +117,7 @@ input, select, textarea {
     width: 350px;
     height: 350px;
     margin-left: 5%;
+    border-radius: 5px;
   }
 
   .links{
