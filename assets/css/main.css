@@ -197,6 +197,15 @@ input, select, textarea {
     left: 70%;
   }
 
+  #about-me {
+    font-size: 22px;
+    line-height: 1.7; 
+  }
+
+  .img{
+    margin-right: 15px;
+  }
+
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
 			-moz-animation: none !important;
 			-webkit-animation: none !important;
