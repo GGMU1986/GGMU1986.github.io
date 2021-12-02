@@ -124,9 +124,9 @@ input, select, textarea {
     margin: 0 20px;
   }
 
-  .link{
-    margin: 10px;
-  }
+ .links > a {
+   margin-right: 20px;
+ }
 
   #drum-JS, #self-tv, #quitter{
     font-size: 16px;
@@ -140,7 +140,7 @@ input, select, textarea {
   .resume{
     position:absolute;
     bottom: -22%;
-    left: -11px;
+    left: -2px;
   }
 
   #quit, #self, #sim{
@@ -157,6 +157,20 @@ input, select, textarea {
     font-size: 20px;
     letter-spacing: 0;
     text-transform: none;
+  }
+
+  .aa{
+    font-size: 16px;
+    font-weight: 700;
+  }
+
+  .place{
+    font-size: 20px;
+    font-weight: 900;
+  }
+
+  .degree{
+    font-size: 17px;
   }
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
