@@ -173,6 +173,30 @@ input, select, textarea {
     font-size: 17px;
   }
 
+  .edu{
+    position:relative;
+  }
+  
+  .edu2{
+    position:relative;
+  }
+
+  .school{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    bottom: 5%;
+    left: 70%;
+  }
+  
+  .school2{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    bottom: 2%;
+    left: 70%;
+  }
+
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
 			-moz-animation: none !important;
 			-webkit-animation: none !important;
