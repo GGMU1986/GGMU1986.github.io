@@ -141,6 +141,8 @@ input, select, textarea {
     position:absolute;
     bottom: -22%;
     left: -2px;
+    font-weight: 700;
+    color: yellow;
   }
 
   #quit, #self, #sim{
@@ -204,6 +206,13 @@ input, select, textarea {
 
   .img{
     margin-right: 15px;
+  }
+
+  .btm{
+    position: absolute;
+    top: 115%;
+    font-weight: 700;
+    color: yellow;
   }
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
