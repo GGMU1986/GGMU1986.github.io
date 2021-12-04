@@ -134,13 +134,13 @@ input, select, textarea {
     font-family: inherit;
     letter-spacing: 0;
     text-transform: none;
-    margin-bottom: 25px;
   }
 
  #live-link{
    display:flex;
    font-size: 15px;
-   color: blue;  
+   color: blue;
+   margin-bottom: 15px;
  }
 
  .pipe{
