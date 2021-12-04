@@ -137,13 +137,20 @@ input, select, textarea {
     margin-bottom: 25px;
   }
 
-  .resume{
-    position:absolute;
-    bottom: -22%;
-    left: -2px;
-    font-weight: 700;
-    color: yellow;
-  }
+ #live-link{
+   display:flex;
+   font-size: 15px;
+   color: blue;  
+ }
+
+ .pipe{
+   color: black;
+   font-weight: 700;
+ }
+
+ .repo-link{
+   margin: 0;
+ }
 
   #quit, #self, #sim{
     margin: 0;
@@ -213,6 +220,10 @@ input, select, textarea {
     top: 115%;
     font-weight: 700;
     color: yellow;
+  }
+
+  .top-right{
+    margin-right: 5%;
   }
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
