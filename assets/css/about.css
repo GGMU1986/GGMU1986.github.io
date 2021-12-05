@@ -78,3 +78,7 @@
 .about-me-container{
   position:relative;
 }
+
+#about-header{
+  margin-bottom: 0;
+}
