@@ -211,8 +211,13 @@ input, select, textarea {
     line-height: 1.7; 
   }
 
+  
   .img{
     margin-right: 15px;
+  }
+  
+  .gql{
+    margin-top: 20px;
   }
 
   .btm{
@@ -3501,6 +3506,8 @@ input, select, textarea {
 				}
 
 		}
+
+  
 
 /* Banner */
 
